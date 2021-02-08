@@ -1,0 +1,16 @@
+C:\Users\Chris\GDC_Assessment\bin\Debug\net5.0\GDC_Assessment.exe
+C:\Users\Chris\GDC_Assessment\bin\Debug\net5.0\GDC_Assessment.deps.json
+C:\Users\Chris\GDC_Assessment\bin\Debug\net5.0\GDC_Assessment.runtimeconfig.json
+C:\Users\Chris\GDC_Assessment\bin\Debug\net5.0\GDC_Assessment.runtimeconfig.dev.json
+C:\Users\Chris\GDC_Assessment\bin\Debug\net5.0\GDC_Assessment.dll
+C:\Users\Chris\GDC_Assessment\bin\Debug\net5.0\ref\GDC_Assessment.dll
+C:\Users\Chris\GDC_Assessment\bin\Debug\net5.0\GDC_Assessment.pdb
+C:\Users\Chris\GDC_Assessment\obj\Debug\net5.0\GDC_Assessment.csprojAssemblyReference.cache
+C:\Users\Chris\GDC_Assessment\obj\Debug\net5.0\GDC_Assessment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chris\GDC_Assessment\obj\Debug\net5.0\GDC_Assessment.AssemblyInfoInputs.cache
+C:\Users\Chris\GDC_Assessment\obj\Debug\net5.0\GDC_Assessment.AssemblyInfo.cs
+C:\Users\Chris\GDC_Assessment\obj\Debug\net5.0\GDC_Assessment.csproj.CoreCompileInputs.cache
+C:\Users\Chris\GDC_Assessment\obj\Debug\net5.0\GDC_Assessment.dll
+C:\Users\Chris\GDC_Assessment\obj\Debug\net5.0\ref\GDC_Assessment.dll
+C:\Users\Chris\GDC_Assessment\obj\Debug\net5.0\GDC_Assessment.pdb
+C:\Users\Chris\GDC_Assessment\obj\Debug\net5.0\GDC_Assessment.genruntimeconfig.cache
