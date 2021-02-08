@@ -1,5 +1,6 @@
 # GDC_Assessment
-Assessment for GDC IT Solutions Interview
+
+Written by Christopher Godfrey for the Technical portion of the GDC IT solutions interview
 
 To run the file in .NET framework in Visual Studio:
 
